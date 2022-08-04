@@ -3,5 +3,12 @@ Olympic Data Analysis Project
 
 https://odvablinktext.herokuapp.com/
 
-Database
+#Libraries used
+Pandas,
+NumPy, 
+Matplotlib,
+Streamlit App
+
+#Database
+
 MySQL
