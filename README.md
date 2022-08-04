@@ -10,9 +10,9 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 https://odvablinktext.herokuapp.com/
 
 # Libraries used
-  Pandas
-  NumPy 
-  Matplotlib
+  Pandas,
+  NumPy,
+  Matplotlib,
   Streamlit App
 
 # Database
