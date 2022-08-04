@@ -9,8 +9,11 @@ Live: https://odvablinktext.herokuapp.com/
 
 # Libraries used
   Pandas
-  NumPy, 
-  Matplotlib,
+  
+  NumPy 
+  
+  Matplotlib
+  
   Streamlit App
 
 # Database
