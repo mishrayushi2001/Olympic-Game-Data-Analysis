@@ -3,7 +3,7 @@ Olympic Data Analysis Project
 
 https://odvablinktext.herokuapp.com/
 
-Libraries used
+Libraries Used
 Pandas
 NumPy
 Matplotlib
