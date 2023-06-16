@@ -3,6 +3,8 @@ Olympic Data Analysis web-app
 
 A Streamlit web application for analysis of olympics dataset
 
+#pip install streamlit
+
 # Dataset Link: 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
